@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 7, 2021 (Example 1)
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Created an Entity Relationship (ER) diagram and draw up general structure of the project.
 
