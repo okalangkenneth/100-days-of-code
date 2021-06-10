@@ -15,7 +15,7 @@
 
 **Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
 
-**Thoughts:** Went well.
+**Thoughts:** It took a while to seed the database.
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
