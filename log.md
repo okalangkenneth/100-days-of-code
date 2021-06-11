@@ -19,7 +19,7 @@
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
-### Day 2: June 10, 2021 
+### Day 3: June 10, 2021 
 
 
 **Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
