@@ -22,18 +22,18 @@
 ### Day 3: June 10, 2021 
 
 
-**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+**Today's Progress**: Continued with seeding the data using Bogus. However did not succeed to get data into the database
 
-**Thoughts:** It took a while to seed the database.
+**Thoughts:** Not happy. its taking more time than i expected
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
 ### Day 4: June 11, 2021 
 
 
-**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+**Today's Progress**: Created more entities in the API. Postponed seeding the database until I determine the relationship between the entities.
 
-**Thoughts:** It took a while to seed the database.
+**Thoughts:** .
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
