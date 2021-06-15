@@ -33,25 +33,25 @@
 
 **Today's Progress**: Created more entities in the API. Postponed seeding the database until I determine the relationship between the entities.
 
-**Thoughts:** .
+**Thoughts:** It took a while to figure out how the entities relate to each other.
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
 ### Day 5: June 12, 2021 
 
 
-**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+**Today's Progress**: Continued with entities. added properties.
 
-**Thoughts:** It took a while to seed the database.
+**Thoughts:** 
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
 ### Day 6: June 13, 2021 
 
 
-**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+**Today's Progress**: Started with seeding the data
 
-**Thoughts:** It took a while to seed the database.
+**Thoughts:** Taking quite a lot of time.
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
@@ -59,20 +59,15 @@
 ### Day 7: June 14, 2021 
 
 
-**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+**Today's Progress**:Problems encountered with seeding the database
 
-**Thoughts:** It took a while to seed the database.
+**Thoughts**: It took a while to seed the database.Got some help from a collegue.
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
 ### Day 8: June 15, 2021 
 
 
-**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
-
-**Thoughts:** It took a while to seed the database.
-
-**Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
 
 
