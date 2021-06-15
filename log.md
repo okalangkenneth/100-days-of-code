@@ -28,8 +28,51 @@
 
 **Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
+### Day 4: June 11, 2021 
 
 
+**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+
+**Thoughts:** It took a while to seed the database.
+
+**Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
+
+### Day 5: June 12, 2021 
+
+
+**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+
+**Thoughts:** It took a while to seed the database.
+
+**Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
+
+### Day 6: June 13, 2021 
+
+
+**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+
+**Thoughts:** It took a while to seed the database.
+
+**Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
+
+
+### Day 7: June 14, 2021 
+
+
+**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+
+**Thoughts:** It took a while to seed the database.
+
+**Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
+
+### Day 8: June 15, 2021 
+
+
+**Today's Progress**:Started working on the API. Added entities to IEP.Core. Added dependencies and updated startup.cs. Seeded data and generated the controllers
+
+**Thoughts:** It took a while to seed the database.
+
+**Link to work:** [Added files](https://github.com/okalangkenneth/Inspection-Evaluation.git)
 
 
 
